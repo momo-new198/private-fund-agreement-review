@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国境内私募基金协议审核"
+  short_description: "审核合伙制、公司制、契约制私募基金协议，先核监管合规，再审商业条款"
+  default_prompt: "使用 $private-fund-agreement-review 审核这份拟新设境内私募基金协议，先列监管问题，再按指定立场提出商业修改建议。"
